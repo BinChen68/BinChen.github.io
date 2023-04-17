@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Bin Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Shanghai"
+  bio              : "Master student at Shanghai University, majoring in Computer Science."
+  location         : "Shanghai, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
