@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Bin Chen, I am a Master student (2022 Fall) at Shanghai University, majoring in Computer Science. I am advised by Prof. Hao Wang. I am interested in ...
+I am Bin Chen, I am a Master student (2022 Fall) at Shanghai University, majoring in Computer Science. I am advised by Dr. Hao Wang. I am interested in ...
 
 More
 ======
