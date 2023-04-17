@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Me"
+excerpt: "Bin Chen"
 author_profile: true
 redirect_from: 
   - /about/
